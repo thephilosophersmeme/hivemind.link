@@ -6,22 +6,22 @@ title = "Test Branch"
   description = "Hive Your Mind."
 
 [[menu.main]]
-    name = "Food"
-    url  = "/food"
+    name = "Page"
+    url  = "/page"
     weight = 1
 [[menu.main]]
-    name = "Drinks"
-    url  = "/drinks"
+    name = "Groups"
+    url  = "/groupss"
     weight = 2
 [[menu.main]]
-    name = "About"
-    url  = "/about"
+    name = "Invite"
+    url  = "/invite"
     weight = 3
 [[menu.main]]
-    name = "Gallery"
-    url  = "/gallery"
+    name = "Directory of groups"
+    url  = "/directory"
     weight = 4
 [[menu.main]]
-    name = "Make A Reservation"
-    url  = "/contact"
+    name = "Join a Hivemind"
+    url  = "/join"
     weight = 5
